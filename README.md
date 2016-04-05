@@ -16,3 +16,5 @@ merge branch
 
 ##### another commit to rebase
 
+##### 3rd commit to rebase branch
+
