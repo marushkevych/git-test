@@ -7,3 +7,6 @@ merge branch
 
 ##### edit after first PR
 
+##### editing merge-squash branch
+##### another edit on branch
+
