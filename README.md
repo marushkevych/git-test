@@ -21,3 +21,6 @@ merge branch
 ##### 3rd commit to rebase branch
 
 ##### commit to rebase-and-merge branch
+
+##### yet another commit
+##### edit 2
