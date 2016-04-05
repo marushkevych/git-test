@@ -10,5 +10,7 @@ merge branch
 ##### editing merge-squash branch
 ##### another edit on branch
 
+##### edit rebase branch
+
 ##### edit after second PR
 
