@@ -6,4 +6,4 @@ merge branch
 2 commit
 
 ##### editing merge-squash branch
-
+##### another edit on branch
