@@ -16,3 +16,8 @@ merge branch
 
 #### commit to master after PR3
 
+##### another commit to rebase
+
+##### 3rd commit to rebase branch
+
+##### commit to rebase-and-merge branch
